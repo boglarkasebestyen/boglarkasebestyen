@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Bogi!
 Hi, I'm Boglárka Sebestyén. I'm passionate about web development, mainly front-end. Based in the US, San Francisco Bay Area.
 
-Skills: React.js, React Native, Node.js, GraphQL, MongoDB
-
-- 🌱 I’m currently learning Swift 
+- 🌱 Skills: React.js, React Native, Node.js, GraphQL, MongoDB
 - 📫 How to reach me: sebestyenboglarkacsilla@gmail.com 
 
 
