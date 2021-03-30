@@ -27,7 +27,7 @@ I'm also interested in learning Typescript, and more about CSS & JS/React animat
 ![](https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
 
 
-### ⚙️ Github Analytics
+### ⚙️ Github analytics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boglarkasebestyen)](https://github.com/anuraghazra/github-readme-stats)
 
