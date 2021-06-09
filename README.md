@@ -34,3 +34,5 @@ I'm also interested in learning Typescript, and more about CSS & JS/React animat
 🤝 Connect with me via [LinkedIn](https://www.linkedin.com/in/boglarkasebestyen/) 
 
 📫 Reach me at [sebestyenboglarkacsilla@gmail.com]()
+
+📝 I started a [blog](https://boglarkasebestyen.wordpress.com)!
