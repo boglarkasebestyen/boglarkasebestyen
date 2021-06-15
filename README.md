@@ -11,8 +11,7 @@ a creative standpoint, I would much rather build functional websites/apps instea
 For example, when I wrote the static websites as part of freeCodeCamp's Responsive Web Design course, I really wished I knew 
 JavaScript to bring them to life. 
 
-💬 Currently, I'm strengthening my skills in React (both React.js and Native) to build more projects. 
-I'm also interested in learning Typescript, and more about CSS & JS/React animations.
+💬 Currently, I'm enrolled in[ MIT's full stack development with MERN](https://xpro.mit.edu/programs/program-v1:xPRO+PCCx+R1/) course 🎓 [2021-2022]
  
  
 ### 🛠 Tech stack
