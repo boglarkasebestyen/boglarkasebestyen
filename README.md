@@ -33,5 +33,3 @@ JavaScript to bring them to life.
 🤝 Connect with me via [LinkedIn](https://www.linkedin.com/in/boglarkasebestyen/) 
 
 📫 Reach me at [sebestyenboglarkacsilla@gmail.com]()
-
-📝 I started a [blog](https://boglarkasebestyen.wordpress.com)!
