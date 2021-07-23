@@ -30,6 +30,11 @@ JavaScript to bring them to life.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boglarkasebestyen)](https://github.com/anuraghazra/github-readme-stats)
 
+📌 Here I am on [Codewars](https://www.codewars.com/users/boglarkasebestyen) exercising some JavaScript
+
 🤝 Connect with me via [LinkedIn](https://www.linkedin.com/in/boglarkasebestyen/) 
 
 📫 Reach me at [sebestyenboglarkacsilla@gmail.com]()
+
+
+
