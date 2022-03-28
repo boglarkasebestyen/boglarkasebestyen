@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Bogi!
-Hi, I'm Boglárka Sebestyén. I'm passionate about web development, mainly front-end. Based in the US, San Francisco Bay Area.
+### Hi there 👋, welcome to my Github!
+My name is Boglárka Sebestyén. I'm passionate about web development, mainly front-end. Based in the US, San Francisco Bay Area.
 
 
 ###  👩🏻‍💻 About me
@@ -9,9 +9,7 @@ I have completed or something I came up with out of the blue.
 💬 Although, I've always preferred to spend my free time with more artistic activities, I realized in the past few years that from 
 a creative standpoint, I would much rather build functional websites/apps instead of just laying out the design. 
 For example, when I wrote the static websites as part of freeCodeCamp's Responsive Web Design course, I really wished I knew 
-JavaScript to bring them to life. 
-
-💬 Currently, I'm enrolled in[ MIT's full stack development with MERN](https://xpro.mit.edu/programs/program-v1:xPRO+PCCx+R1/) course 🎓 [2021-2022]
+JavaScript to bring them to life.  
  
  
 ### 🛠 Tech stack
