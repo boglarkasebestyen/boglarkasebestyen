@@ -1,7 +1,7 @@
 ## Hi there 👋, welcome to my Github!
 
 
-<img src="https://media.giphy.com/media/lT0HP0L3SQGHaPe4u0/giphy.gif" width="350px" height="35px"/>
+<img src="https://media.giphy.com/media/lT0HP0L3SQGHaPe4u0/giphy.gif" width="280px" height="25px"/>
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 ### Find me at:
 
-[<img align="left" style="margin-right:5px" width="45px" height="24px" alt="boglarka Linkedin profile" width="22px" src="https://i.imgur.com/gSsmG2R.png">][Linkedin]
+[<img align="left" style="margin-right:5px" width="45px" height="24px" alt="boglarka LinkedIn profile" width="22px" src="https://i.imgur.com/gSsmG2R.png">][linkedin]
 
 [<img align="left" alt="boglarka codewars badge" width="130px" src="https://www.codewars.com/users/boglarkasebestyen/badges/micro"/>][codewars]
 
@@ -47,8 +47,8 @@
 <br/>
 
 
-[LinkedIn]: (https://www.linkedin.com/in/boglarkasebestyen/) 
-[Codewars]: (https://www.codewars.com/users/boglarkasebestyen)
+[linkedin]: https://www.linkedin.com/in/boglarkasebestyen/ 
+[codewars]: https://www.codewars.com/users/boglarkasebestyen
 [html]: https://html.spec.whatwg.org/
 [css]: https://en.wikipedia.org/wiki/CSS
 [js]: https://www.javascript.com/
@@ -56,10 +56,3 @@
 [giphy]: https://giphy.com/channel/bsebe
 [canva]: https://drive.google.com/file/d/1GqmLavNyv9k5NEwNykYnkiumlY5DRLYv/view?usp=sharing
 [behance]: https://www.behance.net/b-sebe
-
-
-
-
-
-
-
