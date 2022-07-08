@@ -57,6 +57,6 @@
 [js]: https://www.javascript.com/
 [react]: https://reactjs.org/
 [giphy]: https://giphy.com/channel/bsebe
-[canva]: https://drive.google.com/file/d/1GqmLavNyv9k5NEwNykYnkiumlY5DRLYv/view?usp=sharing
+[canva]: https://drive.google.com/file/d/19mABlrstaULe6Yqkk5L-2gNDeQf3y2Hg/view?usp=sharing
 [behance]: https://www.behance.net/b-sebe
 [codepen]: https://codepen.io/boglarkasebestyen
