@@ -42,7 +42,6 @@
 
 [<img align="left" style="margin-left:13px" width="100px" alt="boglarka giphy profile" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Giphy-logo.svg">][giphy]
 
-[<img align="left" style="margin-left:10px" width="35px" height="20px" alt="boglarka behance profile" width="22px" src="https://i.imgur.com/ImIIMK5.png">][behance]
 
 
 <br/> 
